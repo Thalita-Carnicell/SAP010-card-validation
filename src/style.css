@@ -1,0 +1,44 @@
+img{
+    height: 90px;
+    width: 1500px;
+}
+
+
+body{
+    background-color: #268de2;
+}
+.livro2 {
+    height: 230px;
+    width: 1000px;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 15px;
+    text-align: center;
+    color: #268de2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    margin: 0 auto;
+    display: block;
+
+}
+form{
+    background-color: rgb(50, 16, 114);
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+button{
+    font-size: 15px;
+    text-align: right;
+    color: #268de2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
